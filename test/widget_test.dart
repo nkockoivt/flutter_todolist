@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:todolist_app/main.dart';
+import 'file:///D:/Android%20Projects/flutter_todolist-master/flutter_todolist-master/lib/sceens/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
